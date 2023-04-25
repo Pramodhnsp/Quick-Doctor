@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.selected-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: rgb(209, 232, 226);
+
+}
+.selected-container{
+    width: 1100px;
+    height: auto;
+    background-color: white;
+    margin-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    padding-left: 150px;
+    text-align: left;
+    margin-right: 30px;
+    font-weight: bold;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.241);
+    border-radius: 10px;
+}
+#heading{
+    font-size: 20px;
+    font-weight: bold;
+}
+#qualif{
+    font-size: 20px ;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#exp{
+    font-size: 20px ;
+    font-weight: bold;
+    text-decoration: underline;
+
+}

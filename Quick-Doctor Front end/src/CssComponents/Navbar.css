@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    width: auto;
+    height: 70px;
+    margin-bottom: 10px;
+    background-color: rgb(5, 129, 117);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+   
+}
+.logo{
+    font-size: 25px;
+    font-style: oblique;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+
+
+

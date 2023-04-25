@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.notify{
+    width: 100vw;
+}
+
+.body{
+    width:80vw;
+    height: max-content;
+    background-color: rgba(206, 184, 18, 0.89);
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.403); 
+    border-radius: 10px; 
+} 
+
+.header{
+    margin-top: 2px;
+    color: rgb(1, 91, 82);
+    
+}

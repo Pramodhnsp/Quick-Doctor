@@ -1,0 +1,75 @@
+
+.payment section{
+    width: auto;
+    height: 100vh;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:rgb(209, 232, 226);
+}
+.paymentcontainer{
+    background-color:white;
+    max-width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    margin: 20px;
+}
+
+.paymentleft{
+    background-color:  aquamarine;
+    height: 450px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 20px; 
+    font-size: 18px;
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+
+.header{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.paymentright{
+    width: 400px;
+    height: 450px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+   
+}
+.cards{
+    width: 250px;
+    height: max-content;
+    background-color: rgb(255, 255, 255);
+}
+
+#zip{
+    margin-bottom: 15px;
+}
+
+.total{
+    text-align: center;
+    font-weight: bolder;
+    width: max-content;
+    color: blue;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+

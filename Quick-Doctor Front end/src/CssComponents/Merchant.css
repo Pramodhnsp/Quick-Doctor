@@ -1,0 +1,40 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+    
+}
+/* .forms{
+    height: max-content;
+    padding-top: 10px;
+    display: grid;
+    grid-column: 200px 200px;
+    
+} */
+
+#top{
+    margin-top: 50px; 
+}
+
+#top img{
+    padding: 5px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.241);
+}
+#middle{
+    text-align: start;
+    margin-left: 20px;
+
+}
+
+
+#bottom input{
+    border: none;
+    outline: none;
+    width: 110px;
+    margin-right: 10px;
+    background-color: #0084ff;
+ 
+}

@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Home-wrap{
+    width: 100vw;
+    height: max-content;
+    background-color: rgb(209, 232, 226);
+    color: rgb(1, 91, 82);
+    padding-top: 50px;
+
+}
+
+.hometop-header{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+.homegap{
+    width: 90%;
+    height: 5px;
+    background-color: rgb(206, 184, 18);
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.homemiddle-part{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;     
+}
+.regias{
+    width: 200px;
+    height: 200px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+}
+
+.Regis-as{
+    font-size: 30px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.Home-Login{
+    width: 150px;
+    height: fit-content;
+    margin: auto;
+    font-size: 40px;   
+    font-weight: bold;
+    color: black;
+    background-color: rgb(1, 91, 82);
+}
+#or{
+    font-size: 30px;
+}
+
+
+
+
+

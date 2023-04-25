@@ -1,0 +1,11 @@
+*{
+    margin: opx;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#qnty{
+   text-align: left;
+   padding-left: 20px;
+   
+}
